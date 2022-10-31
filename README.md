@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365)](https://solved.ac/lko0365)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kth&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365)](https://solved.ac/lko0365)
+<br/>
 <div align=center>
   <h1>STACKS</h1>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
