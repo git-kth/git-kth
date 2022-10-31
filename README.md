@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center'>
+<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365)](https://solved.ac/lko0365/)
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
