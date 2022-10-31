@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 <br/>
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=Node&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 
