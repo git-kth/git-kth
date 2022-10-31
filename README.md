@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-kth&layout=compact&theme=dark">
-
+<div align='center'>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-kth&layout=compact&theme=dark" height="150">
+</div>
 <br/><br/><br/><br/>
 <div align=center>
   <h1>STACKS</h1>
