@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kth&layout=compact&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365)](https://solved.ac/lko0365)
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lko0365">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-kth&layout=compact&theme=dark">
+
 <br/><br/><br/><br/>
 <div align=center>
   <h1>STACKS</h1>
