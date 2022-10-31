@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![C++](https://img.shields.io/badge/Cpp-00599C.svg?&style=for-the-badge&logo=Cpp&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 
